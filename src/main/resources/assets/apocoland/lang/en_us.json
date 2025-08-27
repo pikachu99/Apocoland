@@ -1,0 +1,14 @@
+{
+  "item.apocoland.acid_water_bucket": "Acid Water Bucket",
+  "item.apocoland.acid_water_bottle": "Acid Water Bottle",
+  "fluid_type.apocoland.acid_water_fluid_type": "Acid Water",
+  "block.apocoland.acid_water_block": "Acid Water",
+
+  "apocoland.configuration.title": "Apocoland Configs",
+  "apocoland.configuration.section.apocoland.common.toml": "Apocoland Configs",
+  "apocoland.configuration.section.apocoland.common.toml.title": "Apocoland Configs",
+  "apocoland.configuration.items": "Item List",
+  "apocoland.configuration.logDirtBlock": "Log Dirt Block",
+  "apocoland.configuration.magicNumberIntroduction": "Magic Number Text",
+  "apocoland.configuration.magicNumber": "Magic Number"
+}
