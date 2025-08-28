@@ -15,7 +15,7 @@ public class ApocolandBlocks {
     public static final DeferredBlock<LiquidBlock> ACID_WATER_BLOCK = BLOCKS.register("acid_water_block",
             () -> new LiquidBlock(ApocolandFluids.SOURCE_ACID_WATER.get(), BlockBehaviour.Properties.ofFullCopy(Blocks.WATER).noCollission()));
 
-    public  static  final DeferredBlock<LiquidBlock> FLOWING_ACID_WATER_BLOCK = BLOCKS.register("flowing_acid_water_block",
+    public  static  final DeferredBlock<LiquidBlock> FLOWING_ACID_WATER = BLOCKS.register("flowing_acid_water",
             () -> new LiquidBlock(ApocolandFluids.FLOWING_ACID_WATER.get(), BlockBehaviour.Properties.ofFullCopy(Blocks.WATER).noCollission()));
 
     public static void register(IEventBus eventBus){
